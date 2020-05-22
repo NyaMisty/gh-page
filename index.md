@@ -1,5 +1,8 @@
 ## Welcome to my repo :)
 
+### [Add to cydia](cydia://url/https://cydia.saurik.com/api/share#?source=http://repo.misty.moe/apt/)
+The repo url is http://repo.misty.moe/apt
+
 ### About KernBypass's fakevar version
 
 #### Before start

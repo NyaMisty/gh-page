@@ -1,3 +1,19 @@
+Package: com.comex.attachanddetach
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Misty
+Installed-Size: 272
+Filename: ./packages/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
+Size: 7702
+MD5sum: 2bbb907b1c67d93c6e9163c31d221bdb
+SHA1: cd482cb39444d5d28f7320924cbadc568ce334da
+SHA256: 69a24a49d9f71925d117b35827a46ef553f20c826edc23535f9056d19241dcaa
+Section: System
+Description: use .dmgs on iOS
+Tag: role::hacker
+Author: comex, danzatt, Misty
+Name: attach-and-detach
+
 Package: jp.akusio.kernbypass
 Version: 0.0.3-9+debug
 Architecture: iphoneos-arm

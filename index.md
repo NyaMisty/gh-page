@@ -6,7 +6,8 @@ The repo url is http://repo.misty.moe/apt
 ### About KernBypass's fakevar version
 
 #### Before start
-- This version is VERY unstable and may panic you system, and there ARE data-loss risk as this tweak will make the normal reboot/shutdown process fail, which may cause the filesystem failing (so if you still want to use this, don't restart your phone that much!)
+- This version is not that stable and MAY panic you system, and there ARE data-loss risk as this tweak will make the normal reboot/shutdown process fail, which may cause the filesystem failing (so if you still want to use this, don't restart your phone that much!)
+- Currently we only tested with 13.5, so other version might not work. Feel free to make issue on GH~
 
 #### Usage
 

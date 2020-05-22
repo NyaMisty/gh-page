@@ -1,0 +1,17 @@
+Package: jp.akusio.kernbypass
+Version: 0.0.3-9+debug
+Architecture: iphoneos-arm
+Maintainer: akusio, Misty
+Installed-Size: 336
+Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
+Filename: ./packages/jp.akusio.kernbypass_0.0.3-9+debug_iphoneos-arm.deb
+Size: 145952
+MD5sum: a5834e24adfb33d87469769f9af3c2fa
+SHA1: b678794801ae9f8896088049762de2c82ca7f7c2
+SHA256: 0f2f5a6b4d8f483891aeb36ef444552246583b94044a6202a93d07a68830ec40
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio, Misty
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+

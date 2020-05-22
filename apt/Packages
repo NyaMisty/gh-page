@@ -15,6 +15,23 @@ Author: comex, danzatt, Misty
 Name: attach-and-detach
 
 Package: jp.akusio.kernbypass
+Version: 0.0.3-10+debug
+Architecture: iphoneos-arm
+Maintainer: akusio, Misty
+Installed-Size: 336
+Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
+Filename: ./packages/jp.akusio.kernbypass_0.0.3-10+debug_iphoneos-arm.deb
+Size: 145942
+MD5sum: 679a3f196e8d83535b3c5db1290cb2d3
+SHA1: fdc311c807e4f4dbe0255d3e772fae45b5e9f151
+SHA256: 98f9a828687c64a49f4253dc7c943cfd9bb560ce695da76cda27697a75a24839
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio, Misty
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+
+Package: jp.akusio.kernbypass
 Version: 0.0.3-9+debug
 Architecture: iphoneos-arm
 Maintainer: akusio, Misty

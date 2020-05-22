@@ -3,7 +3,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Misty
 Installed-Size: 272
-Filename: ./packages/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
+Filename: ./debs/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
 Size: 7702
 MD5sum: 2bbb907b1c67d93c6e9163c31d221bdb
 SHA1: cd482cb39444d5d28f7320924cbadc568ce334da
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: akusio, Misty
 Installed-Size: 336
 Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
-Filename: ./packages/jp.akusio.kernbypass_0.0.3-10+debug_iphoneos-arm.deb
+Filename: ./debs/jp.akusio.kernbypass_0.0.3-10+debug_iphoneos-arm.deb
 Size: 145942
 MD5sum: 679a3f196e8d83535b3c5db1290cb2d3
 SHA1: fdc311c807e4f4dbe0255d3e772fae45b5e9f151
@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Maintainer: akusio, Misty
 Installed-Size: 336
 Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
-Filename: ./packages/jp.akusio.kernbypass_0.0.3-9+debug_iphoneos-arm.deb
+Filename: ./debs/jp.akusio.kernbypass_0.0.3-9+debug_iphoneos-arm.deb
 Size: 145952
 MD5sum: a5834e24adfb33d87469769f9af3c2fa
 SHA1: b678794801ae9f8896088049762de2c82ca7f7c2

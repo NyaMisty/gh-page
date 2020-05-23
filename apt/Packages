@@ -32,33 +32,16 @@ Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
 Name: KernBypass
 
 Package: jp.akusio.kernbypass
-Version: 0.0.3-12+debug
+Version: 0.0.3-26+debug
 Architecture: iphoneos-arm
 Maintainer: akusio, Misty
-Installed-Size: 296
+Installed-Size: 340
 Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
-Filename: ./debs/jp.akusio.kernbypass_0.0.3-12+debug_iphoneos-arm.deb
-Size: 98468
-MD5sum: e91346e89a41e8a4ad32a605c614cd4a
-SHA1: 7367b09f0d8daebbe84689626225d3b01c364e2e
-SHA256: 9ea52bb71e29963360fd368884e8557a6b8f92a1e7c228c8994929178929dd5e
-Section: System
-Description: kernel level jailbreak detection bypass.
-Author: akusio, Misty
-Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
-Name: KernBypass
-
-Package: jp.akusio.kernbypass
-Version: 0.0.3-13+debug
-Architecture: iphoneos-arm
-Maintainer: akusio, Misty
-Installed-Size: 296
-Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
-Filename: ./debs/jp.akusio.kernbypass_0.0.3-13+debug_iphoneos-arm.deb
-Size: 98844
-MD5sum: b5064ef35d5596ec5c2bfb0da2c3a959
-SHA1: abfe28ac5a724a5b2b9e0744be8523aeaa160d8d
-SHA256: 21938fe724e02ccda2dcad30950da240f95a697abdccc114467541a4420a7b13
+Filename: ./debs/jp.akusio.kernbypass_0.0.3-26+debug_iphoneos-arm.deb
+Size: 146816
+MD5sum: d6eebaad4311108b0e7fa8f05962fe8f
+SHA1: eed8b44b413458bd7360f53f240d7ffecbc6a37b
+SHA256: 44f19ee955ce09592b2c2b4ac49e1bdd97358a8b10e6ff0c6d7e3dcfa52226c7
 Section: System
 Description: kernel level jailbreak detection bypass.
 Author: akusio, Misty

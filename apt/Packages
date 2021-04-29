@@ -14,6 +14,22 @@ Tag: role::hacker
 Author: comex, danzatt, Misty
 Name: attach-and-detach
 
+Package: com.comex.attachanddetach
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Misty
+Installed-Size: 592
+Filename: ./debs/com.comex.attachanddetach_0.0.3_iphoneos-arm.deb
+Size: 12416
+MD5sum: b373906ff542c8899b4a2227cf6794b3
+SHA1: 85c07fa57b823b5f651e6b0772215e730c901765
+SHA256: a1d64840d154b3b9fa16edf9e1ef815faceaef8b5229c1ee79acabab0f6a87dc
+Section: System
+Description: use .dmgs on iOS
+Tag: role::hacker
+Author: comex, danzatt, Misty
+Name: attach-and-detach
+
 Package: jp.akusio.kernbypass
 Version: 0.0.3-10+debug
 Architecture: iphoneos-arm
@@ -64,4 +80,42 @@ Description: kernel level jailbreak detection bypass.
 Author: akusio, Misty
 Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
 Name: KernBypass
+
+Package: moe.misty.bindfsmount
+Version: 0.0.1-19+debug
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 364
+Filename: ./debs/moe.misty.bindfsmount_0.0.1-19+debug_iphoneos-arm.deb
+Size: 7916
+MD5sum: 0c23ec3aaf9c74e086f50b0c788cc3d9
+SHA1: 1aa86d1505f33cf2b65bbaf5bb8f8dc5aacec2e0
+SHA256: e79dd9557012844e492c696323fb239078dc4593fedee040f3eaee000cdfc3ca
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: misty
+Name: mount_bindfs
+
+Package: moe.misty.kernbypass14
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Misty
+Installed-Size: 1860
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Filename: ./debs/moe.misty.kernbypass14_0.0.6_iphoneos-arm.deb
+Size: 94066
+MD5sum: 07178316e8f2efd18625285277adaa89
+SHA1: 50fd76d031d2966c676ede8d86e90fafeb94e8b8
+SHA256: 95e4fe3c0eb3a928c22a0ce4f1fa07fd5a21fd9d097eed0a593c7d5cfb8dc780
+Section: System
+Description: kernel level jailbreak detection bypass.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: akusio
+Dev: akusio, Misty, ichitaso, XsF1re
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+Name: KernBypass (iOS14)
 

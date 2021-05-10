@@ -97,6 +97,22 @@ Tag: role::hacker
 Author: misty
 Name: mount_bindfs
 
+Package: moe.misty.fouldecrypt
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 264
+Filename: ./debs/moe.misty.fouldecrypt_0.0.1_iphoneos-arm.deb
+Size: 6242
+MD5sum: 0e62be4416354701e407bb8899e510bd
+SHA1: a3d998385dcfbb2b3b74e932715a3d9e88be9dfd
+SHA256: e8adede066e354d768e154136501f6de88c572497ffdee1b22aa9ff756bb9b51
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: misty
+Name: fouldecrypt
+
 Package: moe.misty.kernbypass14
 Version: 0.0.6
 Architecture: iphoneos-arm

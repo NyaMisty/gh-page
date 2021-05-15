@@ -130,6 +130,23 @@ Tag: role::hacker
 Author: misty
 Name: fouldecrypt
 
+Package: moe.misty.fouldecrypt
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 2400
+Depends: libkrw (>= 1.0.0)
+Filename: ./debs/moe.misty.fouldecrypt_0.0.2-3+debug_iphoneos-arm.deb
+Size: 281560
+MD5sum: 5e92f58843c5dd0f85dba8981224de6c
+SHA1: bce2220c464708f6a9e5addcaf588caf4db6c898
+SHA256: 7885b963f7ae76395b51c424006cbc20d786c4dc57a197c6d12dfc573296a5a2
+Section: System
+Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
+Tag: role::hacker
+Author: misty
+Name: fouldecrypt
+
 Package: moe.misty.kernbypass14
 Version: 0.0.6
 Architecture: iphoneos-arm

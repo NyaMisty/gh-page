@@ -120,10 +120,10 @@ Maintainer: misty
 Installed-Size: 664
 Depends: libkrw (>= 1.0.0)
 Filename: ./debs/moe.misty.fouldecrypt_0.0.2_iphoneos-arm.deb
-Size: 71022
-MD5sum: 337007162bc6b8dce7356a09e77bd9aa
-SHA1: f81d908ca3adce77c9d2f5bc8f9d6df2b7096f16
-SHA256: 74a356a42b91988983c1dcefe3a86dd2a55af8a1649495144636b9cf7322d997
+Size: 71436
+MD5sum: 72d52fd377592793ed147a47f9397fd1
+SHA1: 896de285ec9f892e4d19d41591f5a5d77228a934
+SHA256: ae74a9f52996044d653e19093f86228f5f71d705192c3dabb1f4002bacba3c13
 Section: System
 Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
 Tag: role::hacker

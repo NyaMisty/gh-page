@@ -186,3 +186,19 @@ Dev: akusio, Misty, ichitaso, XsF1re
 Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
 Name: KernBypass (iOS14)
 
+Package: moe.misty.surge4-advanced
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/moe.misty.surge4-advanced_0.0.1_iphoneos-arm.deb
+Size: 10648
+MD5sum: b965dea8ba7be0313e81c3ea0ef91144
+SHA1: 7faac9b057c4ffabe6f431dfab5051affc0ed308
+SHA256: 54fb7f7bad6a03631689c6889df86906873c73c6ca5794231ba3c870fdbbb513
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: Surge4Advanced
+
